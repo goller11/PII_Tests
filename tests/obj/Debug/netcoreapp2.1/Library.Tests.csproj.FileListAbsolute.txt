@@ -1,0 +1,17 @@
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.csprojAssemblyReference.cache
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.AssemblyInfoInputs.cache
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.AssemblyInfo.cs
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.Tests.deps.json
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.Tests.runtimeconfig.json
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.Tests.runtimeconfig.dev.json
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.Tests.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.Tests.pdb
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\bin\Debug\netcoreapp2.1\Library.pdb
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.csproj.CopyComplete
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.dll
+C:\Users\Vogel\Desktop\VOGEL_Tests\tests\obj\Debug\netcoreapp2.1\Library.Tests.pdb
